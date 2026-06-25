@@ -1,13 +1,13 @@
 [
 	{
-		"name": "Holy Roman Empire",
-		"leaderName": "Ferdinand I",
-		"adjective": ["Holy Roman"],
+		"name": "Mercenary Empire",
+		"leaderName": "Hkaizer De Rich",
+		"adjective": ["Mercenary"],
         "startBias": ["Avoid [Coast]", "Avoid [Tundra]", "Plains"],
 		"preferredVictoryType": "Domination",
 
-        "startIntroPart1": "",
-        "startIntroPart2": "",
+        "startIntroPart1": "Mercenary Empire was an empire that ruled by Hkaizer de Rich, despite his young age he was smart king, special in terms of negotiation and war.",
+        "startIntroPart2": "Mercenary Empire was that was an empire that ruled by an noble but an guild, there were a lots of guild scatter around the empire. The guild act as an job an also military force, you can use the guild as your power and also recruit them as your warrior.",
 
         "declaringWar": "I cannot wait until ye grow even mightier. Therefore, prepare for war!",
 		"attacked": "I will not relish this coming war, but I will win it.",
