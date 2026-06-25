@@ -3,7 +3,7 @@
 		"name": "Mercenary Empire",
 		"leaderName": "Hkaizer De Rich",
 		"adjective": ["Mercenary"],
-        "startBias": ["Avoid [Coast]", "Avoid [Tundra]", "Plains"],
+        "startBias": ["Avoid [Tundra]", "Plains"],
 		"preferredVictoryType": "Domination",
 
         "startIntroPart1": "Mercenary Empire was an empire that ruled by Hkaizer de Rich, despite his young age he was smart king, special in terms of negotiation and war.",
