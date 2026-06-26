@@ -1,7 +1,7 @@
 [
 	{
-		"name": "Undead",
-		"uniques": ["Uncapturable", "[30]% Strength <vs [Military] units>", "May capture killed [All] units <upon defeating a [All] unit> <with [100]% chance>", "[-1] HP when healing","No damage penalty for wounded units"]
+		"name": "Mercenaries",
+		"uniques": ["Uncapturable", "[10]% Strength <vs [Military] units>", "Gain [40] [Gold] <when attacking>","[-50]% Gold cost of upgrading","Earn [70]% of the damage done to [All] units as [Gold]"]
 	},
 	{
 		"name": "Breach the Walls",
