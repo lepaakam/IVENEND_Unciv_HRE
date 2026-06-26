@@ -31,22 +31,22 @@
 
   {
 		"name": "Help from the guild",
-		"text": "'We, writers, painters, sculptors, architects and passionate devotees of the hitherto untouched beauty of this nation, protest with all our strength, against the erection of this useless and monstrous Eiffel Tower. To bring our arguments home, imagine for a moment a giddy, ridiculous tower dominating this city like a gigantic black smokestack, crushing under its barbaric bulk all of our humiliated monuments which will disappear in this ghastly dream.'",
+		"text": "'You dude, need help?.'",
 		"choices": [
-				{ "text": "Idiots",
+				{ "text": "Nah, we fine",
 				"uniques": [ "Comment [Nothing happens.]"]},
       
-     			{ "text": "We can't take it down! We're using it as a radio tower!",
-			  "uniques": [ "Gain a free [Broadcast Tower] [in this city]",
-                      		"Comment [Lose 750 [Gold]]",
-							"Gain [-750] [Gold] <hidden from users>" ]},
+     			{ "text": "Little help is not bad actually",
+			  "uniques": [ "[2] free [Landsknecht] units appear",
+                      		"Comment [Lose 200 [Gold]]",
+							"Gain [-200] [Gold] <hidden from users>" ]},
       
-     			{ "text": "Fine, let's tear it down.",
-			  "uniques": ["Comment [Lose [Eiffel Tower] benefits]",
-				     		"[-1 Happiness] per [2] social policies adopted <for [999999] turns> <hidden from users>",
-				  			"[-5 Happiness, -1 Culture] [in capital] <for [999999] turns> <hidden from users>",
-                            "[2] free [Great Artist] units appear",
-                        	"[1] free [Great Engineer] units appear"] }]
+     			{ "text": "Yes please, i'm shaking my boots right now.",
+			  "uniques": [  "[4] free [unit] units appear",
+				     		"[2] free [unit] units appear",
+				  			"Gain [-600] [Gold] <hidden from users>",
+                            "[1] free [Great General] units appear",
+                        	"Comment [Lose 600 [Gold]]"] }]
   },
 
 	 {
