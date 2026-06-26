@@ -75,7 +75,7 @@
 
 	{
 		"name": "You're pregnat???",
-		"text": "Whaaaat?.",
+		"text": "i'm sorry, Whaaaat?(these who know ahh shit).",
 		"choices": [
 			{ "text": "Erm what the sigma.",
 			  "uniques": [ "[1] population in a random city",
@@ -90,7 +90,7 @@
 
 	{
 		"name": "Special day!",
-		"text": "Your kingdom right are celebrating a special day.",
+		"text": "Your kingdom right now are celebrating a special day.",
 		"choices": [
 			{ "text": "Splendid",
 			  "uniques": [ "Empire enters golden age",
@@ -112,7 +112,7 @@
 
 	 {
 		    "name": "Conquer them!",
-		    "text": "The guilds give you mercenaries to help you win the war.",
+		    "text": "The guilds give you a mercenaries to help you win the war.",
 		    "choices": [
 			    {"text": "Thank you.",
 			     "uniques": ["[4] free [Landsknecht] units appear",
@@ -126,6 +126,9 @@
 		    "name": "Idk what is this",
 		    "text": "Fuck you!.",
 		    "choices": [
+
+				{ "text": "Dude, im pregnant",
+				"uniques": [ "Comment [Bruh]"]},
 
 			    { "text": "What?",
 			  "uniques": ["Free [Isagoras] appears",
