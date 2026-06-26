@@ -6,8 +6,8 @@
         "startBias": ["Plains"],
 		"preferredVictoryType": "Domination",
 
-        "startIntroPart1": "Mercenary Empire was an empire that ruled by Hkaizer de Rich, despite his young age he was smart king, special in terms of negotiation and war.",
-        "startIntroPart2": "Mercenary Empire was that was an empire that ruled by an noble but an guild, there were a lots of guild scatter around the empire. The guild act as an job an also military force, you can use the guild as your power and also recruit them as your warrior.",
+        "startIntroPart1": "Mercenary Empire was an empire that ruled by Hkaizer de Rich, despite his young age he was smart king, especially in terms of negotiation and war.",
+        "startIntroPart2": "Mercenary Empire was an empire that ruled is not ruled by a noble but a guild(especially the high one), there were a lots of guild scatter around the empire. The guild act as an job an also military force, you can use the guild as your power and also recruit them as your warrior.",
 
         "declaringWar": "I cannot wait until ye grow even mightier. Therefore, prepare for war!",
 		"attacked": "I will not relish this coming war, but I will win it.",
@@ -29,8 +29,8 @@
 			"All newly-trained [All] units [in all cities] receive the [Mercenaries] promotion <hidden from users>",
 			"[40]% Golden Age length",
 			"[-20]% maintenance cost for [all] buildings [in all cities]",
-			"[Gold] cost of purchasing [Melee] units [-40]%"],
-		"cities": ["Zihaq","Aachen","Prague","Vienna","Augsburg","Mainz","Ulm","Luxemburg","Strassburg","Lubeck",
+			"[Gold] cost of purchasing [All] units [-50]%"],
+		"cities": ["Zihaq de Omega","Aachen","Prague","Vienna","Augsburg","Mainz","Ulm","Luxemburg","Strassburg","Lubeck",
 			"Brandenburg","Heidelberg","Trier","Regensburg","Magdeburg","Worms","Constance","Salzburg","Innsbruck","Stettin",
 			"Kolberg","Breslau","Bamberg","Mannheim","Goslar","Spires","Paderborn","Passau","Hagen",
 			"Erfurt","Kaiserslautern","Kassel","Oberhausen","Hamm","Saarbrücken","Krefeld","Pirmasens","Potsdam","Solingen",
