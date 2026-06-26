@@ -18,14 +18,14 @@ UnitIcons/Reichsritter
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Schlachtschwertier
+UnitIcons/Khazaq
   rotate: false
   xy: 220, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Schwarze Reiter
+UnitIcons/Commander 
   rotate: false
   xy: 328, 4
   size: 100, 100
