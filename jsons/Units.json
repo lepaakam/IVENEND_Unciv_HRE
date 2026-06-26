@@ -1,6 +1,6 @@
 [
 	{
-		"name": "Schlachtschwertier",
+		"name": "Khazaq",
 		"unitType": "Sword",
 		"replaces": "Longswordsman",
 		"uniqueTo": "Holy Roman Empire",
@@ -14,7 +14,7 @@
 		"attackSound": "metalhit"
 	},
 	{
-		"name": "Schwarze Reiter",
+		"name": "Commander",
 		"unitType": "Mounted",
 		"replaces": "Knight",
 		"uniqueTo": "Holy Roman Empire",
