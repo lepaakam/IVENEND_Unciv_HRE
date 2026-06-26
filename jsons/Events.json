@@ -21,7 +21,7 @@
 
   {
 		    "name": "National Birthday",
-		    "text": "Today is the empire birthday, moment when our home and birthplace born. We it will be there for eternity.",
+		    "text": "Today is the empire birthday, moment when our home and birthplace born. We hope it will be there for eternity.",
 		    "choices": [
 			    {"text": "Happy birthday yall.",
 			     "uniques": ["Gain [25]-[40] [Production]",
