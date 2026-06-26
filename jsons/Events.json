@@ -118,7 +118,8 @@
 			    {"text": "Thank you.",
 			     "uniques": ["[4] free [Landsknecht] units appear",
 				     		"[1] free [Commander] units appear",
-				  			"Gain [-600] [Gold] <hidden from users>",] } ]
+				  			"All newly-trained [All] units [in all cities] receive the [March] promotion <for [9999] turns>",
+			  				 "[4] free [Janissary] units appear"] } ]
 	
 	},
 
