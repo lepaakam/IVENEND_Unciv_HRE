@@ -20,12 +20,12 @@
   },
 
   {
-		    "name": "Comet Spotted",
-		    "text": "A comet was sighted in the sky. Some people in the past believed that this portents fell times ahead. Others used to believe that they are in fact pixie fairies floating in the sky. Such primitive ways of thinking, it's almost embarassing that our ancestors used to believe in such nonsensical rubbish like that.",
+		    "name": "National Birthday",
+		    "text": "Today is the empire birthday, moment when our home and birthplace born. We it will be there for eternity.",
 		    "choices": [
-			    {"text": "Thank God we live in such enlightened times.",
-			     "uniques": ["Gain [175]-[275] [Faith]",
-							 "[+2 Happiness] [in all cities] <for [5] turns>"] } ]
+			    {"text": "Happy birthday yall.",
+			     "uniques": ["Gain [25]-[40] [Production]",
+							 "[+5 Happiness] [in all cities] <for [5] turns>"] } ]
 	
 	},
 
