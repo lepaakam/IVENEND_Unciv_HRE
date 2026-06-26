@@ -10,9 +10,9 @@
 	{
 		"name": "For the kingdom",
 		"uniques": ["+[50]% Strength vs [City]",
-					"+[25]% Strength in [Fort]",
-					"+[25]% Strength in [Citadel]",
-			        "Can construct [Fort]"]
+					"[25]% Strength",
+					"Great General provides double combat bonus",
+			        "May enter foreign tiles without open borders, but loses [0] religious strength each turn it ends there <hidden from users>"]
 	},
 	{
 		"name": "Brave",
