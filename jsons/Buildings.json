@@ -1,14 +1,14 @@
 [
   {
-    "name": "Guild Center",
+    "name": "Guild Training Centerl",
     "cost": 65,
     "uniqueTo": "Mercenary Empire"
     "isNationalWonder": true,
     "uniques": ["Comment [Making your unit more trained and skilled especially in this city]",
-      "All newly-trained [Military] units [in this city] receive the [Summon the Lich King] promotion",
-      "Can only be built [in capital]",
-      "[-100]% maintenance costs <for [All] units>",
-      "[All] units gain the [Doll Gunpowder] promotion"
+      "All newly-trained [Military] units [in this city] receive the [Summon the Lich King] promotion <hidden from users>",
+      "Can only be built [in capital] <hidden from users>",
+      "[-100]% maintenance costs <for [All] units> <hidden from users>",
+      "[All] units gain the [Doll Gunpowder] promotion <hidden from users>"
             ], 
   },
 ]
