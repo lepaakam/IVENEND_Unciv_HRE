@@ -129,8 +129,9 @@
 		    "choices": [
 
 			    { "text": "What?",
-			  "uniques": ["Free [Ainz Ooal Gown] appears",
-				  		 "Free [Ainz Ooal Gown] appears"]},
+			  "uniques": ["Free [Isagoras] appears",
+				  		 "Free [Agathinus] appears",
+			             "Free [Daedalus] appears"]},
 			    
 			    {"text": "What's wrong with you",
 			     "uniques": ["[+10 Production] [in all cities] <for [15] turns>",
