@@ -64,8 +64,8 @@
   },
 
 	{
-		"name": "The Guest Star",
-		"text": "The year is 1054, a star has appeared in the heavens. It glows with a breathtaking brilliance, captivating the entirety of the nation. The event is surely one of great significance.",
+		"name": "The Guest Star in starry night",
+		"text": "A star has appeared in the heavens. It glows with a breathtaking brilliance, captivating the entirety of the nation. The event is surely one of great significance.",
 		"choices": [
 			{ "text": "Such beauty!",
 			  "uniques": [ "[1] free [Great Artist] units appear"]},
