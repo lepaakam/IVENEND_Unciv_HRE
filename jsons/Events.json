@@ -58,9 +58,8 @@
 						   "[1] free [Khan] units appear" ]},
       
      			{ "text": "I want money",
-			  "uniques": ["[10 Happiness] [in all cities] <for [10] turns> <hidden from users>",
-				      		"Gain [300] [Gold]",
-                  		    "Gain [25]-[35] [Food] <hidden from users>"] }]
+			  "uniques": ["Gain [350] [Gold]",
+                  		  "Gain [25]-[35] [Food] <hidden from users>"] }]
   },
 
 	{
