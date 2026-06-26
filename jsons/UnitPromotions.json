@@ -8,8 +8,11 @@
 		"uniques": ["[125]% XP gained from combat","[50] XP gained from combat <hidden from users>", "[+20]% Strength"]
 	},
 	{
-		"name": "Eat the Living",
-		"uniques": ["Heals [100] damage if it kills a unit", "Earn [25]% of killed [Military] unit's [Strength] as [Culture]", "Earn [10]% of the damage done to [All] units as [Gold]"]
+		"name": "For the kingdom",
+		"uniques": ["+[50]% Strength vs [City]",
+					"+[25]% Strength in [Fort]",
+					"+[25]% Strength in [Citadel]",
+			        "Can construct [Fort]"]
 	},
 	{
 		"name": "Brave",
