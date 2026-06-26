@@ -7,7 +7,10 @@
 		"Triggers a [Gift from the guild] event <for [Mercenary Empire] Civilizations> <upon turn start> <with [10]% chance>",
 		"Triggers a [Special day!] event <for [Mercenary Empire] Civilizations> <upon turn start> <with [20]% chance>",
 		"Triggers a [You're pregnat???] event <for [Mercenary Empire] Civilizations> <upon turn start> <with [38]% chance>",
-		"Triggers a [The Guest Star in starry night] event <for [Mercenary Empire] Civilizations> <upon turn end> <with [8]% chance>",
+		"Triggers a [event] event <for [Mercenary Empire] Civilizations> <upon declaring war on [All] Civilizations>",
+        "Triggers a [The Guest Star in starry night] event <for [Mercenary Empire] Civilizations> <upon turn end> <with [8]% chance>",
+        "Triggers a [The Guest Star in starry night] event <for [Mercenary Empire] Civilizations> <upon turn end> <with [8]% chance>",
+        "Triggers a [The Guest Star in starry night] event <for [Mercenary Empire] Civilizations> <upon turn end> <with [8]% chance>",
 
 
 
