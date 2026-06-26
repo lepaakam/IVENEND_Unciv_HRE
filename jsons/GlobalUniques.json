@@ -2,7 +2,7 @@
 	"name": "Global uniques",
 	"uniques": [		
 	    "Triggers a [Based and Christpilled] event <upon adopting [Christianity]> <for [Human player] Civilizations>",
-		"Triggers a [National Birthday] event <with [3]% chance>",
+		"Triggers a [National Birthday] event <for [Major] Civilizations> <upon turn end> <with [3]% chance>",
 		"Triggers a [Subsidize] event <upon discovering [Steam Power] technology>",
 		"Triggers a [Codify Laws] event <upon discovering [Philosophy] technology>",
 		"Triggers a [Modern Olympics] event <upon discovering [Refrigeration] technology>",
