@@ -42,8 +42,8 @@
 							"Gain [-200] [Gold] <hidden from users>" ]},
       
      			{ "text": "Yes please, i'm shaking my boots right now.",
-			  "uniques": [  "[4] free [unit] units appear",
-				     		"[2] free [unit] units appear",
+			  "uniques": [  "[4] free [Khazaq] units appear",
+				     		"[2] free [Commander] units appear",
 				  			"Gain [-600] [Gold] <hidden from users>",
                             "[1] free [Great General] units appear",
                         	"Comment [Lose 600 [Gold]]"] }]
