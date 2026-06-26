@@ -12,8 +12,8 @@
 		"uniques": ["Heals [100] damage if it kills a unit", "Earn [25]% of killed [Military] unit's [Strength] as [Culture]", "Earn [10]% of the damage done to [All] units as [Gold]"]
 	},
 	{
-		"name": "Hard to Kill Twice",
-		"uniques": ["[+15]% Strength <when defending>"]
+		"name": "Brave",
+		"uniques": ["[+35]% Strength <when defending>","[Great General] is earned [65]% faster"]
 	},
 	{
 		"name": "Sickening Plague",
