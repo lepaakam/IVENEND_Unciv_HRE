@@ -50,20 +50,17 @@
   },
 
 	 {
-		"name": "A Destitute Noble",
-		"text": "A destitute nobleman has arrived at your court. He is without Lord and pledges his service your name. The nobleman is ragged and unkempt, but adorned with many scars, and has evidently fielded many battles. It is up to you what is to be done with him.",
+		"name": "Gift from the guild",
+		"text": "The guild give us some gift, they ask what kind of gift i want.",
 		"choices": [
-			{ "text": "Turn him away! We don't need him stinking up the Court!" } ,
-      
-     			{ "text": "Have him cleaned up and suited with armor.",
+     			{ "text": "I need a strong leader.",
 			  "uniques": [ "[1] free [Great General] units appear",
-                      		"Comment [Lose 150 [Gold]]",
-							"Gain [-150] [Gold] <hidden from users>" ]},
+						   "[1] free [Khan] units appear" ]},
       
-     			{ "text": "Confiscate what little estate he possesses and then have him executed!",
-			  "uniques": ["[-2 Happiness] [in all cities] <for [10] turns>",
-				      		"Gain [80] [Gold]",
-                  		    "Gain [25]-[35] [Culture]"] }]
+     			{ "text": "I want money",
+			  "uniques": ["[10 Happiness] [in all cities] <for [10] turns> <hidden from users>",
+				      		"Gain [300] [Gold]",
+                  		    "Gain [25]-[35] [Food] <hidden from users>"] }]
   },
 
 	{
