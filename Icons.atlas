@@ -4,7 +4,7 @@ size: 512, 128
 format: RGBA8888
 filter: MipMapLinearLinear, Linear
 repeat: none
-NationIcons/Holy Roman Empire
+NationIcons/Mercenary Empire 
   rotate: false
   xy: 4, 4
   size: 100, 100
