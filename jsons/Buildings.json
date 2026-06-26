@@ -4,7 +4,7 @@
     "cost": 65,
     "uniqueTo": "Mercenary Empire"
     "isNationalWonder": true,
-    "uniques": [
+    "uniques": ["Comment [Making your unit more trained and skilled especially in this city]",
       "All newly-trained [Military] units [in this city] receive the [Summon the Lich King] promotion",
       "Can only be built [in capital]",
       "[-100]% maintenance costs <for [All] units>",
