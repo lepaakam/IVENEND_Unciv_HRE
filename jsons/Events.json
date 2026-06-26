@@ -102,7 +102,7 @@
 
 	 {
 		    "name": "Vague posting",
-		    "text": "Dude you are not believe this",
+		    "text": "Dude you are not gonna believe this",
 		    "choices": [
 			    {"text": "Believe what?",
 			     "uniques": ["[+1000 Food] [in all cities] <for [2] turns>"] } ]
@@ -112,11 +112,13 @@
 
 
 	 {
-		    "name": "Codify Laws",
-		    "text": "Over the years various laws and decrees have been accumulated. In the interests of efficient administration it would be better to codify them into a single corpus of law so everyone will know their rights.",
+		    "name": "Conquer them!",
+		    "text": "The guilds give you mercenaries to help you win the war.",
 		    "choices": [
-			    {"text": "And so it shall be.",
-			     "uniques": ["Gain a free [Code of Laws] [in capital]"] } ]
+			    {"text": "Thank you.",
+			     "uniques": ["[4] free [Landsknecht] units appear",
+				     		"[1] free [Commander] units appear",
+				  			"Gain [-600] [Gold] <hidden from users>",] } ]
 	
 	},
 
