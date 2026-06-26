@@ -4,8 +4,8 @@
 		"uniques": ["Uncapturable", "[10]% Strength <vs [Military] units>", "Gain [40] [Gold] <when attacking> <hidden from users>","[-50]% Gold cost of upgrading <hidden from users>","Earn [70]% of the damage done to [All] units as [Gold] <hidden from users>"]
 	},
 	{
-		"name": "Breach the Walls",
-		"uniques": ["[+15]% Strength <vs cities> <when attacking>","Double movement in [Fallout]", "[+10]% Strength <when fighting in [Fallout] tiles>"]
+		"name": "Trained and skilled",
+		"uniques": ["[125]% XP gained from combat","[50] XP gained from combat <hidden from users>", "[+20]% Strength"]
 	},
 	{
 		"name": "Eat the Living",
