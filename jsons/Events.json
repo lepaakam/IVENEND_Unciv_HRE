@@ -135,47 +135,7 @@
 	
 	},
 
-	{
-		    "name": "Subsidize",
-		    "text": "Problems with traffic congestion hinder productivity in our nation. If we were to promote public transport, we should be able to ensure that both people and resources can get to where they need to be on time.",
-		    "choices": [
 
-			    { "text": "Expand bus and tram routes.",
-			  "uniques": [ "Comment [Lose 500 [Gold]]",
-				  		"Gain [-500] [Gold]" ,
-				       "[+25 Gold] [in all cities] <for [20] turns>",
-				       "[+5 Happiness] [in all cities] <for [30] turns>",
-			  		"Gain a free [Bus Routes] [in capital]"]},
-			    
-			    {"text": "Fund an underground subway.",
-			     "uniques": ["Comment [Lose 500 [Gold]]",
-				     	 "[+15 Production] [in all cities] <for [20] turns>",
-				     	 "[+10 Culture] [in all cities] <for [10] turns>",
-				     	 "Gain [-500] [Gold] <hidden from users>",
-			     		"Gain a free [Underground Subway] [in capital]"] } ]
-	
-	},
-	{
-		"name": "Mystic",
-		"text": "An itinerant mystic had made some spiced cider from the fruit trees he has planted during his annual pilgrimage. Crowds are already gathering, sharing food and listening to the mystic's sermons.",
-		"choices": [
-			{ "text": "Listen to his sermons, they are quite thought-provoking.",
-			  "uniques": [	"Gain [15]-[30] [Faith]",
-					"Gain [15]-[30] [Culture]"]}
-      
-      			{ "text": "Take up the product, and share it with the world!",
-			  "uniques": [	"[+15 Food] [in all cities] <for [1] turns>"] }
-      
-     			{ "text": "Tell the mystic to be quiet! I deal with enough crazy people already!",
-			  "uniques": [ 	"Comment [Grants a burst of [Science]]",
-				  	"Comment [Lose some [Faith]]",
-                        "[-2 Happiness] [in all cities] <for [5] turns>",
-				  	 "Gain [-30] [Faith] <hidden from users>",
-					"Gain [25] [Science] <during the [Ancient era]> <hidden from users>",
-					"Gain [65] [Science] <during the [Classical era]> <hidden from users>",
-			 		"Gain [110] [Science] <during the [Medieval era]> <hidden from users>",
-			  		"Gain [170] [Science] <during the [Renaissance era]> <hidden from users>"] } ]
-  	},
 
 
 ]
