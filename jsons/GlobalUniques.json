@@ -3,7 +3,7 @@
 	"uniques": [		
 	    "Triggers a [Based and Christpilled] event <upon adopting [Christianity]> <for [Human player] Civilizations>",
 		"Triggers a [National Birthday] event <for [Major] Civilizations> <upon turn end> <with [3]% chance>",
-		"Triggers a [Help from the guild] event <upon turn start> <when at war> <with [40]% chance>",
+		"Triggers a [Help from the guild] event <for [Mercenary Empire] Civilizations> <upon turn start> <when at war> <with [40]% chance>",
 		"Triggers a [Codify Laws] event <upon discovering [Philosophy] technology>",
 		"Triggers a [Modern Olympics] event <upon discovering [Refrigeration] technology>",
 		"Triggers a [America UE] event <for [America] Civilizations> <upon discovering [Economics] technology>"
