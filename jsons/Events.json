@@ -389,9 +389,4 @@
 	
 	},
 
-	{
-		    "name": "Asteroid",
-		    "text": "Worrying news has come from our top astronomers. It appears that an asteroid is expected to hit our planet, directly in our nation! Peaople are anxious, and many are losing hope, believing this is the beginning of Doomsday. What shall we do?",
-		    "choices": [
-
-			    { "text": "We shall prevent that asteroid from hitting Earth, no matter
+]
