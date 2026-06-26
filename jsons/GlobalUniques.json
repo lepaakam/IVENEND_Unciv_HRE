@@ -5,7 +5,7 @@
 		"Triggers a [National Birthday] event <for [Major] Civilizations> <upon turn end> <with [3]% chance>",
 		"Triggers a [Help from the guild] event <for [Mercenary Empire] Civilizations> <upon turn start> <when at war> <with [40]% chance>",
 		"Triggers a [Gift from the guild] event <for [Mercenary Empire] Civilizations> <upon turn start> <with [10]% chance>",
-		"Triggers a [Modern Olympics] event <upon discovering [Refrigeration] technology>",
+		"Triggers a [Special day!] event <for [Mercenary Empire] Civilizations> <upon turn start> <with [20]% chance>",
 		"Triggers a [America UE] event <for [America] Civilizations> <upon discovering [Economics] technology>"
 
     ]
