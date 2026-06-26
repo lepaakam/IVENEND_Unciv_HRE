@@ -75,16 +75,16 @@
   },
 
 	{
-		"name": "Solar Eclipse",
-		"text": "The nation stares in awe as the Sun slowly disappears behind the black disc suspended in the sky, and the world turns to darkness despite it being mid-day. Your subjects are absolutely terrified.",
+		"name": "You're pregnat???",
+		"text": "Whaaaat?.",
 		"choices": [
-			{ "text": "Our prayers and sacrifices shall bring back the light.",
-			  "uniques": [ "[+20]% [Culture] [in all cities] <for [8] turns>",
-			  		"[+100]% [Faith] [in all cities] <for [8] turns>"]},
+			{ "text": "Erm what the sigma.",
+			  "uniques": [ "[1] population in a random city",
+			  		"[+150]% [Faith] [in all cities] <for [8] turns>"]},
       
      			{ "text": "There must be a reasonable explanation.",
-			  "uniques": [ "[+20]% [Culture] [in all cities] <for [8] turns>",
-			  	       "[+20]% [Science] [in all cities] <for [8] turns>" ]}]
+			  "uniques": [ "[+100]% [Culture] [in all cities] <for [8] turns>",
+			  	       "[+100]% [Science] [in all cities] <for [8] turns>" ]}]
   },
 
 	{
