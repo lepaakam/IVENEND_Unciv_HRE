@@ -118,21 +118,21 @@
 			    {"text": "Thank you.",
 			     "uniques": ["[4] free [Landsknecht] units appear",
 				     		"[1] free [Commander] units appear",
-				  			"All newly-trained [All] units [in all cities] receive the [March] promotion <for [9999] turns>",
+				  			"All newly-trained [All] units [in all cities] receive the [Logistics] promotion <for [20] turns>",
 			  				 "[4] free [Janissary] units appear"] } ]
 	
 	},
 
 	{
-		    "name": "Nationalize the Utilities",
-		    "text": "Should we nationalize those industries which are essential for our people's welfare? The industries' owners won't like it, but the nation will be better off for it in the long run.",
+		    "name": "Idk what is this",
+		    "text": "Fuck you!.",
 		    "choices": [
 
-			    { "text": "These industries shall stay private!",
+			    { "text": "What?",
 			  "uniques": ["[+15 Gold] [in all cities] <for [15] turns>",
 				  		 "Gain a free [Stock Exchange] [in capital]"]},
 			    
-			    {"text": "For the People!",
+			    {"text": "What's wrong with you",
 			     "uniques": ["[+10 Production] [in all cities] <for [15] turns>",
 			     		 "Gain a free [Factory] [in capital]"] } ]
 	
