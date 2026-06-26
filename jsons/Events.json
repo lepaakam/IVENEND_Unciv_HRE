@@ -156,11 +156,12 @@
   },
 
 	{
-		"name": "Struck Oil!",
-		"text": "Glorious news! Our workers have found a new, rich source of oil on a nearby our existing oil wells! The oil is sitting there, just waiting for us to drill it out.",
+		"name": "Special day!",
+		"text": "Your kingdom right are celebrating a special day.",
 		"choices": [
-			{ "text": "Wonderful news!",
-			  "uniques": [ "[+100]% [Oil] resource production <for [15] turns>"] }]
+			{ "text": "Splendid",
+			  "uniques": [ "Empire enters golden age",
+			                "[This Unit] gains [4] movement <during a Golden Age>"] }]
   },
 
 	{
