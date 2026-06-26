@@ -1,17 +1,17 @@
 [
   {
-		"name": "Comet Sighted",
-		"text": "People are often superstitious and the appearance of a comet has convinced many that the end of times is soon to come. Whether or not this is actually the case, this is bound to cause some instability within the nation.",
+		"name": "Based and Christpilled",
+		"text": "Me, a pantied black tradcath.",
 		"choices": [
-			{ "text": "It is an omen!",
-			  "uniques": [	"Gain [10]-[25] [Faith]",
-							"Gain [10]-[20] [Culture]"]}
+			{ "text": "It's Based and Christpilled!",
+			  "uniques": [	"Gain [23]-[40] [Faith]",
+							"[Religious] units gain the [Based and Christpilled] promotion"]}
       
-      			{ "text": "The end is nigh!",
-			  "uniques": [	"[-2 Happiness] [in all cities] <for [5] turns>",
-                      		"Gain [30]-[50] [Culture]" ] }
+      			{ "text": "It's not Based and Christpilled!",
+			  "uniques": [	"[-4 Happiness] [in all cities] <for [8] turns>",
+                      		"Gain [50]-[100] [Culture]" ] }
       
-     			{ "text": "Keep looking at the sky!",
+     			{ "text": "Bro",
 			  "uniques": [ 	"Comment [Grants a burst of [Science]]",
                             "[-1 Happiness] [in all cities] <for [5] turns>",
 							"Gain [20] [Science] <during the [Ancient era]> <hidden from users>",
