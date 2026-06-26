@@ -1,8 +1,11 @@
 [
   {
     "name": "Guild Center",
-    "cost": 0,
+    "cost": 65,
+    "uniqueTo": "Mercenary Empire"
+    "isNationalWonder": true,
     "uniques": [
+      "All newly-trained [Military] units [in this city] receive the [Summon the Lich King] promotion"],
       "Can only be built [in capital]",
       "[-100]% maintenance costs <for [All] units>",
       "[All] units gain the [Doll Gunpowder] promotion"
