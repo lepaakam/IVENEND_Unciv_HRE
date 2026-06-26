@@ -3,7 +3,7 @@
 		"name": "Mercenary Empire",
 		"leaderName": "Hkaizer De Rich",
 		"adjective": ["Mercenary"],
-        "startBias": ["Avoid [Tundra]","Plains"],
+        "startBias": ["Plains"],
 		"preferredVictoryType": "Domination",
 
         "startIntroPart1": "Mercenary Empire was an empire that ruled by Hkaizer de Rich, despite his young age he was smart king, special in terms of negotiation and war.",
@@ -29,7 +29,7 @@
 			"All newly-trained [All] units [in all cities] receive the [Mercenaries] promotion <hidden from users>",
 			"[40]% Golden Age length",
 			"[-20]% maintenance cost for [all] buildings [in all cities]",
-			"[Gold] cost of purchasing [Melee] units [-35]%"],
+			"[Gold] cost of purchasing [Melee] units [-40]%"],
 		"cities": ["Zihaq","Aachen","Prague","Vienna","Augsburg","Mainz","Ulm","Luxemburg","Strassburg","Lubeck",
 			"Brandenburg","Heidelberg","Trier","Regensburg","Magdeburg","Worms","Constance","Salzburg","Innsbruck","Stettin",
 			"Kolberg","Breslau","Bamberg","Mannheim","Goslar","Spires","Paderborn","Passau","Hagen",
