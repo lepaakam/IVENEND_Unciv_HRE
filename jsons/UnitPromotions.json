@@ -13,11 +13,11 @@
 	},
 	{
 		"name": "Brave",
-		"uniques": ["[+35]% Strength <when defending>","[Great General] is earned [65]% faster"]
+		"uniques": ["[+35]% Strength <when defending>","[Great General] is earned [65]% faster <hidden from users>"]
 	},
 	{
-		"name": "Sickening Plague",
-		"uniques": ["[10]% Strength for enemy [Military] units in adjacent [All] tiles", "[+5]% Strength <vs [Wounded] units>"]
+		"name": "Speech of the Commander",
+		"uniques": ["[40]% Strength bonus for [All] units within [6] tiles","All adjacent units heal [40] HP when healing <hidden from users>"]
 	},
 	{
 		"name": "Summon the Lich King",
