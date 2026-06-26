@@ -129,8 +129,8 @@
 		    "choices": [
 
 			    { "text": "What?",
-			  "uniques": ["[+15 Gold] [in all cities] <for [15] turns>",
-				  		 "Gain a free [Stock Exchange] [in capital]"]},
+			  "uniques": ["Free [Ainz Ooal Gown] appears",
+				  		 "Free [Ainz Ooal Gown] appears"]},
 			    
 			    {"text": "What's wrong with you",
 			     "uniques": ["[+10 Production] [in all cities] <for [15] turns>",
