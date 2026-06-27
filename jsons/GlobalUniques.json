@@ -1,7 +1,7 @@
 {
 	"name": "Global uniques",
 	"uniques": [		
-	    "Triggers a [Based and Christpilled] event <after founding a religion> <upon turn end> <for [Human player] Civilizations>",
+	    "Triggers a [Based and Christpilled] event <after founding a religion> <upon turn end> <every [999] turns> <for [Human player] Civilizations>",
 		"Triggers a [National Birthday] event <for [Major] Civilizations> <upon turn end> <with [3]% chance>",
 		"Triggers a [Help from the guild] event <for [Mercenary Empire] Civilizations> <upon turn start> <when at war> <with [30]% chance>",
 		"Triggers a [Gift from the guild] event <for [Mercenary Empire] Civilizations> <upon turn start> <with [8]% chance>",
