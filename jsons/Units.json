@@ -42,7 +42,7 @@
 		"rangedStrength": 10,
 		"cost": 60,
 		"promotions": ["Logistics","Accuracy I"],
-		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
-		"attackSound": "horse"
+		"uniques": ["Can move after attacking", "Never appears as a Barbarian unit"],
+		"attackSound": "metalhit"
 	}
 ]
