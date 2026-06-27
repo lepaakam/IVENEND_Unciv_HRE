@@ -38,15 +38,15 @@
       
      			{ "text": "Little help is not bad actually",
 			  "uniques": [ "[2] free [Landsknecht] units appear",
-                      		"Comment [Lose 200 [Gold]]",
-							"Gain [-200] [Gold] <hidden from users>" ]},
+                      		"Comment [Lose 300 [Gold]]",
+							"Gain [-300] [Gold] <hidden from users>" ]},
       
      			{ "text": "Yes please, i'm shaking my boots right now.",
 			  "uniques": [  "[4] free [Khazaq] units appear",
 				     		"[2] free [Commander] units appear",
-				  			"Gain [-600] [Gold] <hidden from users>",
+				  			"Gain [-700] [Gold] <hidden from users>",
                             "[1] free [Great General] units appear",
-                        	"Comment [Lose 600 [Gold]]"] }]
+                        	"Comment [Lose 700 [Gold]]"] }]
   },
 
 	 {
@@ -55,7 +55,7 @@
 		"choices": [
      			{ "text": "I need a strong leader.",
 			  "uniques": [ "[1] free [Great General] units appear",
-						   "[1] free [Khan] units appear" ]},
+						   "[1] free [Commander] units appear" ]},
       
      			{ "text": "I want money",
 			  "uniques": ["Gain [350] [Gold]",
@@ -79,11 +79,11 @@
 		"choices": [
 			{ "text": "Erm what the sigma.",
 			  "uniques": [ "[1] population in a random city",
-			  		"[+150]% [Faith] [in all cities] <for [8] turns>"]},
+			  		"[+50]% [Faith] [in all cities] <for [8] turns>"]},
       
      			{ "text": "There must be a reasonable explanation.",
-			  "uniques": [ "[+100]% [Culture] [in all cities] <for [8] turns>",
-			  	       "[+100]% [Science] [in all cities] <for [8] turns>" ]}]
+			  "uniques": [ "[+60]% [Culture] [in all cities] <for [8] turns>",
+			  	       "[+60]% [Science] [in all cities] <for [8] turns>" ]}]
   },
 
 
@@ -94,7 +94,7 @@
 		"choices": [
 			{ "text": "Splendid",
 			  "uniques": [ "Empire enters golden age",
-			                "[This Unit] gains [4] movement <during a Golden Age>"] }]
+			                "Gain [50] [Gold]"] }]
   },
 
 
@@ -104,7 +104,7 @@
 		    "text": "Dude you are not gonna believe this",
 		    "choices": [
 			    {"text": "Believe what?",
-			     "uniques": ["[+1000 Food] [in all cities] <for [2] turns>"] } ]
+			     "uniques": ["[+800 Food] [in all cities] <for [2] turns>"] } ]
 	
 	},
 
@@ -115,10 +115,10 @@
 		    "text": "The guilds give you a mercenaries to help you win the war.",
 		    "choices": [
 			    {"text": "Thank you.",
-			     "uniques": ["[4] free [Landsknecht] units appear",
+			     "uniques": ["[2] free [Landsknecht] units appear",
 				     		"[1] free [Commander] units appear",
 				  			"All newly-trained [All] units [in all cities] receive the [Logistics] promotion <for [20] turns>",
-			  				 "[4] free [Janissary] units appear"] } ]
+			  				 "[1] free [Janissary] units appear"] } ]
 	
 	},
 
