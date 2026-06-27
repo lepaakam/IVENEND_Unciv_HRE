@@ -42,7 +42,14 @@
 		"rangedStrength": 10,
 		"cost": 60,
 		"promotions": ["Logistics","Accuracy I"],
-		"uniques": ["Can move after attacking", "Never appears as a Barbarian unit"],
+		"uniques": ["Can move after attacking", "Never appears as a Barbarian unit",
+		            "[+5] Strength <during the [Classical era]>",					
+						"[+25] Strength <during the [Medieval era]>",					
+						"[+35] Strength <during the [Renaissance era]>",				
+						"[+45] Strength <during the [Industrial era]>",					
+						"[+70] Strength <during the [Modern era]>",						
+						"[+85] Strength <during the [Atomic era]>",					
+						"[+100] Strength <starting from the [Information era]>"],		
 		"attackSound": "metalhit"
 	}
 ]
