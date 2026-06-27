@@ -30,5 +30,24 @@
 		"promotions": ["Brave","Speech of the Commander"],
 		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
 		"attackSound": "horse"
+	},
+
+	{
+		"name": "Reichsritter",
+		"unitType": "Mounted",
+		"replaces": "Knight",
+		"uniqueTo": "Mercenary Empire",
+		"range": 3,
+		"movement": 4,
+		"strength": 40,
+		"rangedStrength": 60,
+		"cost": 120,
+		"requiredTech": "Chivalry",
+		"obsoleteTech": "Military Science",
+		"upgradesTo": "Cavalry",
+		"requiredResource": "Horses",
+		"promotions": ["Brave","Speech of the Commander"],
+		"uniques": ["Can move after attacking","No defensive terrain bonus","[-33]% Strength <vs cities> <when attacking>", "Never appears as a Barbarian unit"],
+		"attackSound": "horse"
 	}
 ]
