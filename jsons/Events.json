@@ -38,15 +38,15 @@
       
      			{ "text": "Little help is not bad actually",
 			  "uniques": [ "[2] free [Landsknecht] units appear",
-                      		"Comment [Lose 300 [Gold]]",
-							"Gain [-300] [Gold] <hidden from users>" ]},
+                      		"Comment [Lose 900 [Gold]]",
+							"Gain [-900] [Gold] <hidden from users>" ]},
       
      			{ "text": "Yes please, i'm shaking my boots right now.",
 			  "uniques": [  "[4] free [Khazaq] units appear",
 				     		"[2] free [Commander] units appear",
-				  			"Gain [-700] [Gold] <hidden from users>",
+				  			"Gain [-1400] [Gold] <hidden from users>",
                             "[1] free [Great General] units appear",
-                        	"Comment [Lose 700 [Gold]]"] }]
+                        	"Comment [Lose 1400 [Gold]]"] }]
   },
 
 	 {
@@ -58,8 +58,8 @@
 						   "[1] free [Commander] units appear" ]},
       
      			{ "text": "I want money",
-			  "uniques": ["Gain [350] [Gold]",
-                  		  "Gain [25]-[35] [Food] <hidden from users>"] }]
+			  "uniques": ["Gain [50] [Gold]",
+                  		  "Gain [15]-[25] [Food] <hidden from users>"] }]
   },
 
 	{
@@ -94,7 +94,7 @@
 		"choices": [
 			{ "text": "Splendid",
 			  "uniques": [ "Empire enters golden age",
-			                "Gain [50] [Gold]"] }]
+			                "Gain [20] [Gold]"] }]
   },
 
 
@@ -115,7 +115,7 @@
 		    "text": "The guilds give you a mercenaries to help you win the war.",
 		    "choices": [
 			    {"text": "Thank you.",
-			     "uniques": ["[2] free [Landsknecht] units appear",
+			     "uniques": ["[1] free [Landsknecht] units appear",
 				     		"[1] free [Commander] units appear",
 				  			"All newly-trained [All] units [in all cities] receive the [Logistics] promotion <for [20] turns>",
 			  				 "[1] free [Janissary] units appear"] } ]
